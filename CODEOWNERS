@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @SAK-Dev21
+/src/backend/database.py      @SAK-Dev21
+/src/backend/routers/auth.py  @SAK-Dev21
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @SAK-Dev21
